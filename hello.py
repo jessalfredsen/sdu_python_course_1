@@ -11,5 +11,9 @@ def goodmorning_sdu():
     return _now
 
 
+def load_data():
+    return [1,2,3,4,5,5,6]
+
+
 if __name__ == '__main__':
     goodmorning_sdu()
